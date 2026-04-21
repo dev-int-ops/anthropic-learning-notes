@@ -11,6 +11,7 @@
 | # | Course | Guide |
 |---|---|---|
 | 01 | AI Fluency: Framework & Foundations | [Open Guide](./01-ai-fluency-foundations/study-guide.md) |
+| 02 | Claude-101 | [Open Guide](./02-claude-101/study-guide.md) |
 
 *More courses will be added as completed.*
 

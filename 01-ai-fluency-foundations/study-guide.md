@@ -24,7 +24,7 @@
 
 ## 1. Overview
 
-**Course:** [Anthropic AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) 
+**Course:** [Anthropic AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)  
 **Audience:** Everyone — regardless of current AI expertise level  
 **Goal:** Make AI Fluency accessible and useful for navigating the evolving landscape of AI collaboration
 
