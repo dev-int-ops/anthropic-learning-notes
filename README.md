@@ -12,19 +12,11 @@
 |---|---|---|
 | 01 | AI Fluency: Framework & Foundations | [Open Guide](./01-ai-fluency-foundations/study-guide.md) |
 | 02 | Claude-101 | [Open Guide](./02-claude-101/study-guide.md) |
+| 03 | Claude Code in Action | [Open Guide](./03-claude-code-in-action/study-guide.md) |
 
 *More courses will be added as completed.*
 
 ---
-
-## Structure
-```
-anthropic-learning-notes/
-    ├── README.md
-    ├── LICENSE
-    └── 01-ai-fluency-foundations/
-        └── study-guide.md
-```
 
 ## License
 
