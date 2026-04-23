@@ -1,6 +1,6 @@
 # Claude 101
 
-*This guide was created after completing the Anthropic Claude 101 course on Anthropic's learning platform. It summarizes and organizes the key concepts in one place, with AI assistance used to structure and format the content, to help learners grasp the framework quickly.*
+*This guide was created after completing the Anthropic Claude 101 course on Anthropic's learning platform. It summarizes and organizes the key concepts in one place, with AI assistance used to structure and format the content, to help learners grasp key concepts quickly.*
 
 ---
 
