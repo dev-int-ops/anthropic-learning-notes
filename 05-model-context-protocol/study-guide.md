@@ -13,9 +13,9 @@
 6. [Testing with the MCP Inspector](#6-testing-with-the-mcp-inspector)
 7. [Building an MCP Client](#7-building-an-mcp-client)
 8. [The Three Server Primitives](#8-the-three-server-primitives)
-   - [Tools — Model-Controlled](#8.1-tools-model-controlled)
-   - [Resources — App-Controlled](#8.2-resources-app-controlled)
-   - [Prompts — User-Controlled](#8.3-prompts-user-controlled)
+   - [Tools — Model-Controlled](#81-tools--model-controlled)
+   - [Resources — App-Controlled](#82-resources--app-controlled)
+   - [Prompts — User-Controlled](#83-prompts--user-controlled)
 9. [Choosing the Right Primitive](#9-choosing-the-right-primitive)
 10. [Key Takeaways](#10-key-takeaways)
 
