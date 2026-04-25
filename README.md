@@ -1,4 +1,4 @@
-# Anthropic Learning Notes
+# Anthropic SkillJar Cources Learning Notes
 
 *These guides are based on Anthropic's publicly available courses and have been supplemented with personal notes taken during the study process. They are intended as a quick reference guide for anyone looking to familiarise themselves with the key concepts.*
 
@@ -14,6 +14,7 @@
 | 02 | Claude-101 | [Open Guide](./02-claude-101/study-guide.md) |
 | 03 | Claude Code in Action | [Open Guide](./03-claude-code-in-action/study-guide.md) |
 | 04 | Introduction to Agent Skills | [Open Guide](./04-introduction-to-agent-skills/study-guide.md) |
+| 05 | Model Context Protocol | [Open Guide](./05-model-context-protocol/study-guide.md) |
 
 *More courses will be added as completed.*
 
