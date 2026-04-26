@@ -15,6 +15,7 @@
 | 03 | Claude Code in Action | [Open Guide](./03-claude-code-in-action/study-guide.md) |
 | 04 | Introduction to Agent Skills | [Open Guide](./04-introduction-to-agent-skills/study-guide.md) |
 | 05 | Model Context Protocol | [Open Guide](./05-model-context-protocol/study-guide.md) |
+| 06 | Building with the Claude API | [Open Guide](./06-building-with-claude-api/study-guide.md) |
 
 *More courses will be added as completed.*
 
