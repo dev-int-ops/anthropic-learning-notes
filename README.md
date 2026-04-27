@@ -1,4 +1,4 @@
-# Anthropic SkillJar Cources Learning Notes
+# Anthropic SkillJar Courses Learning Notes
 
 *These guides are based on Anthropic's publicly available courses and have been supplemented with personal notes taken during the study process. They are intended as a quick reference guide for anyone looking to familiarise themselves with the key concepts.*
 
@@ -17,6 +17,7 @@
 | 05 | Model Context Protocol | [Open Guide](./05-model-context-protocol/study-guide.md) |
 | 06 | Building with the Claude API | [Open Guide](./06-building-with-claude-api/study-guide.md) |
 | 07 | Model Context Protocol — Advanced Topics | [Open Guide](./07-mcp-advanced-topics/study-guide.md) |
+| 08 | Claude Certified Architect — Exam Cheat Sheet | [Open Guide](./08-cca-cheat-sheet/cheat_sheet.md) |
 
 ---
 
